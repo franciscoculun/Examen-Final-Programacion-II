@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de Medidores</string>
+
+    <!-- Lista -->
+    <string name="titulo_mediciones">Mediciones</string>
+    <string name="sin_mediciones">No hay mediciones registradas.</string>
+
+    <!-- Formulario -->
+    <string name="titulo_nueva_medicion">Registrar medición</string>
+    <string name="etiqueta_medidor">Medidor</string>
+    <string name="etiqueta_fecha">Fecha</string>
+
+    <string name="etiqueta_tipo_medidor">Medidor de:</string>
+
+    <!-- Servicios -->
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+
+    <!-- Botón -->
+    <string name="boton_guardar">Registrar medición</string>
+</resources>
